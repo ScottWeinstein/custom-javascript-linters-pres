@@ -15,7 +15,7 @@
 
 * 200,000 lines of JavaScript
 * 70 developers
-* insufficient JavaScript expertise
+* developers are new to JavaScript
 * plans for growth
 
 
