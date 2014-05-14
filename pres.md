@@ -11,7 +11,7 @@
     * for loops?
 
 
-# but, really, why?
+# but really, why?
 
 * 200,000 lines of JavaScript
 * 70 developers
